@@ -24,8 +24,8 @@
 - 커뮤니티 운영 (네이버 카페, 페이스북 페이지)
 
 ### 📚 이러한 것들을 할 줄 압니다!
-- 프론트엔드 (React.js, GraphQL, Apollo, Vue.js, Typescript, HTML, CSS, SCSS, Javascript, jQuery)
-- 백엔드 (Express, Node.js, Typescript, Pug, Spring Boot, JPA, QueryDsl, Kotlin)
+- 프론트엔드 (React.js, GraphQL, Apollo-Client, Vue.js, Typescript, HTML, CSS, SCSS, Javascript, jQuery)
+- 백엔드 (Express, Node.js, Apollo-Server, Typescript, Pug, Spring Boot, JPA, QueryDsl, Kotlin)
 - 안드로이드 (Kotlin, Java)
 - 프로그램 (C#, VB.net, Electron)
 - 데이터베이스 (PostgreSQL, MariaDB(MySQL), MongoDB)
