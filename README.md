@@ -13,7 +13,7 @@
   - 오킹TV 홈페이지 제작, 팬카페 관리, 페이스북 페이지 관리
 
 - [팀 크레센도](https://team-crescendo.me) - 챗봇을 만듭니다, 일상을 바꿉니다
-  - 커뮤니티 관리, 크시봇 유지보수
+  - 인사부서장, 관리부서장
 
 ### 💻 주로 아래와 같은 일을 하며
 - 팀 리더
@@ -30,6 +30,7 @@
 - 운영
 
 ### 🤔 저에 대해 더 알고 싶으시다면...
+- 🏠 개인 홈페이지 - https://kdw.kr
 - 🚀 로켓펀치 - https://www.rocketpunch.com/@kdwkr
 - 👍 페이스북 - https://wwww.facebook.com/kdwkr0410
 - 📷 인스타그램 - https://www.instagram.com/kdwkr
