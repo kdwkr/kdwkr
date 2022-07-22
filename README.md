@@ -6,7 +6,7 @@
 
 ### 🤪 아래와 같은 일을 하는 저는
 
-- [스캐터랩](https://scatterlab.co.kr) [루다팀](https://team.luda.ai)
+- [스캐터랩](https://scatterlab.co.kr) [핑퐁팀](https://team.luda.ai)
   - 인터널 프로덕트 엔지니어
   - Nutty 애플리케이션 개발
   
