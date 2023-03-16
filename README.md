@@ -8,10 +8,12 @@
 
 - [스캐터랩](https://scatterlab.co.kr) [핑퐁팀](https://team.luda.ai)
   - 인터널 프로덕트 엔지니어
-  - Nutty 애플리케이션 개발
+  - [Nutty](https://nuttymessenger.com) 애플리케이션 개발
+  - [Zetty](https://zetty.app) 애플리케이션 개발
+  - 내부 프로덕트 개발
 
 ### 💻 주로 아래와 같은 일을 하며
-- 프론트엔드, 백엔드 개발 (React.js, Node.js)
+- 프론트엔드, 백엔드 개발 (React.js, React Native, Node.js, Typescript)
 
 ### 📚 이러한 것들을 할 줄 압니다!
 - 프론트엔드 (React.js, React Native, Recoil, GraphQL, Apollo-Client, Vue.js, Typescript, HTML, CSS, SCSS, Javascript, jQuery)
