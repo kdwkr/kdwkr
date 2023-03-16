@@ -25,6 +25,7 @@
 
 ### 🤔 저에 대해 더 알고 싶으시다면...
 - 🏠 개인 홈페이지 - https://kdw.kr
+- 🔗 링크드인 - https://www.linkedin.com/in/kdwkr
 - 🚀 로켓펀치 - https://www.rocketpunch.com/@kdwkr
 - 👍 페이스북 - https://wwww.facebook.com/kdwkr0410
 - 📷 인스타그램 - https://www.instagram.com/kdwkr
