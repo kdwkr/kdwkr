@@ -10,7 +10,7 @@
   - [Zetty](https://zetty.app) 애플리케이션 개발
   - 내부 프로덕트 개발
 
-- [걸어서 옼탑방까지 (크리에이터 오킹 팬카페) 부매니저](https://cafe.naver.com/okingrooftop)
+- [걸어서 옼탑방까지](https://cafe.naver.com/okingrooftop) (크리에이터 오킹 팬카페) 부매니저
   - 2020년 4월 ~ 
 
 ### 전 활동
