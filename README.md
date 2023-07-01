@@ -1,7 +1,5 @@
 ## 안녕하세요?
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdwkr)](https://github.com/kdwkr)
-
 ### 현 활동
 
 - [스캐터랩](https://scatterlab.co.kr) [핑퐁팀](https://team.luda.ai) - Internal Product Engineer
