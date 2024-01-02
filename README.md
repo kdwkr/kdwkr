@@ -39,6 +39,7 @@
 - 영상 편집 (Adobe Premiere Pro)
 
 ### 수상
+- Junction ASIA 2023 - Busan & Shinhan Card Track Winner
 - Junction ASIA 2022 - Chainapsis Track Winner
 - STA+C (스마틴앱챌린지) - 우수상 / AppJam - IoT 부문 최우수상
 - 하이스쿨 스타트업 스프링보드 - 우수상
