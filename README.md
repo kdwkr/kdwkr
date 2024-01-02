@@ -4,6 +4,7 @@
 
 - [스캐터랩](https://scatterlab.co.kr) [핑퐁팀](https://team.luda.ai) - Internal Product Engineer
   - 2021년 12월 ~
+  - [zeta](https://zeta-ai.io) 애플리케이션 개발
   - [Nutty](https://nuttymessenger.com) 애플리케이션 개발
   - [Zetty](https://zetty.app) 애플리케이션 개발
   - 내부 프로덕트 개발
