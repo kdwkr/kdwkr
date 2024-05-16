@@ -32,7 +32,7 @@
 - 프론트엔드, 백엔드 개발 (React.js, React Native, NestJS, Node.js Typescript)
 
 ### 기술 스택
-- 프론트엔드 (React.js, React Native, Recoil, GraphQL, Apollo-Client, Vue.js, Typescript, HTML, CSS, SCSS, Javascript, jQuery)
+- 프론트엔드 (React.js, React Native, zustand, Recoil, GraphQL, Apollo-Client, Vue.js, Typescript, HTML, CSS, SCSS, Javascript, jQuery)
 - 백엔드 (NestJS, Express, Node.js, GraphQL, Apollo-Server, Typescript, Pug, Spring Boot, JPA, QueryDsl, Kotlin)
 - 안드로이드 (Kotlin, Java)
 - 프로그램 (C#, VB.net, Electron)
