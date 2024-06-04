@@ -2,9 +2,9 @@
 
 ### 현 활동
 
-- [스캐터랩](https://scatterlab.co.kr) [핑퐁팀](https://team.luda.ai) - Frontend Lead, Internal Product Engineer
+- [스캐터랩](https://scatterlab.co.kr) [핑퐁팀](https://team.luda.ai) - Frontend Unit Lead, Internal Product Engineer
   - 2021년 12월 ~
-  - (Frontend Lead) 2024년 1월 ~
+  - (Frontend Unit Lead) 2024년 1월 ~
   - [zeta](https://zeta-ai.io) 애플리케이션 개발
   - [Nutty](https://nuttymessenger.com) 애플리케이션 개발
   - [Zetty](https://zetty.app) 애플리케이션 개발
